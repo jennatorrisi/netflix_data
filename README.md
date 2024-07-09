@@ -13,3 +13,21 @@ Genres Data (CTE): Splits the genre information by commas, trims whitespace, and
 Genre Mapping (CTE): Creates a mapping table to consolidate similar genres into a unified set of genres.
 Consolidated Genres (CTE): Replaces original genres with consolidated genres based on the mapping table.
 Enriched Genre Count (CTE): Counts and sorts the consolidated genres, excluding null values.
+
+
+How to Use
+
+Clone the repository.
+Connect to your SQL database.
+Execute the SQL code to clean and transform the Netflix dataset.
+Analyze the output to gain insights into the genre distribution and other attributes.
+Contributions
+Feel free to open issues or submit pull requests if you have suggestions for improving the analysis or code.
+
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+
+Contact
+For any questions or feedback, please contact Your Name.
