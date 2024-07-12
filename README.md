@@ -25,9 +25,5 @@ Contributions
 Feel free to open issues or submit pull requests if you have suggestions for improving the analysis or code.
 
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-
 Contact
-For any questions or feedback, please contact Your Name.
+For any questions or feedback, please contact Jenna Torrisi
