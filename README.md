@@ -18,12 +18,18 @@ Enriched Genre Count (CTE): Counts and sorts the consolidated genres, excluding 
 How to Use
 
 Clone the repository.
+
 Connect to your SQL database.
+
 Execute the SQL code to clean and transform the Netflix dataset.
+
 Analyze the output to gain insights into the genre distribution and other attributes.
+
 Contributions
+
 Feel free to open issues or submit pull requests if you have suggestions for improving the analysis or code.
 
 
 Contact
+
 For any questions or feedback, please contact Jenna Torrisi
