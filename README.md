@@ -1,11 +1,19 @@
-Netflix Dataset Analysis
+# My Project - Netflix Data Set
+
+## Tableau Visualization
+
+[![Tableau Visualization](https://public.tableau.com/static/images/WJ/WJYTMDQTH/1.png)](https://public.tableau.com/shared/WJYTMDQTH?:display_count=n&:origin=viz_share_link)
+
+Click the image above to view the interactive Tableau visualization.
+
+## Netflix Dataset Analysis
 
 This repository contains an analysis of a Netflix dataset, focusing on cleaning, transforming, and consolidating genre information for better insights.
 
-Dataset Description
+## Dataset Description
 The dataset used for this analysis is a collection of Netflix show and movie listings, including various attributes such as title, director, actors, country, date added, release year, rating, duration, listed genres, and descriptions.
 
-SQL Code
+## SQL Code
 The SQL code provided performs the following steps to clean and transform the data:
 
 Cleaned Data (CTE): Renames the columns for better readability and use in subsequent queries.
@@ -15,7 +23,7 @@ Consolidated Genres (CTE): Replaces original genres with consolidated genres bas
 Enriched Genre Count (CTE): Counts and sorts the consolidated genres, excluding null values.
 
 
-How to Use
+## How to Use
 
 Clone the repository.
 
@@ -28,13 +36,3 @@ Analyze the output to gain insights into the genre distribution and other attrib
 Contributions
 
 Feel free to open issues or submit pull requests if you have suggestions for improving the analysis or code.
-
-
-# My Project
-
-## Tableau Visualization
-
-[![Tableau Visualization](https://public.tableau.com/static/images/WJ/WJYTMDQTH/1.png)](https://public.tableau.com/shared/WJYTMDQTH?:display_count=n&:origin=viz_share_link)
-
-Click the image above to view the interactive Tableau visualization.
-
